@@ -20,6 +20,7 @@
     </properties>
     <modules>
         <module>bakalauras-app</module>
+        <module>bakalauras-web</module>
     </modules>
 
     <dependencies>
