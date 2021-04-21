@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/bakalauras-web/node_modules/
